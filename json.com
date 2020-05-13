@@ -258,7 +258,7 @@
 
   },	
   {
-   "title":"العربية",
+   "title":"Sky News",
     "drawable":"",
     "submenu":"أخبار",
     "iap":false,
@@ -267,14 +267,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "https://www.skynewsarabia.com/"
         ]
       }
     ]
 
   },	 
   {
-   "title":"العربية",
+   "title":"عكاظ",
     "drawable":"",
     "submenu":"أخبار",
     "iap":false,
@@ -283,14 +283,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "https://www.okaz.com.sa/"
         ]
       }
     ]
 
   },	
   {
-   "title":"العربية",
+   "title":"اليوم السابع",
     "drawable":"",
     "submenu":"أخبار",
     "iap":false,
@@ -299,14 +299,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "https://www.youm7.com/"
         ]
       }
     ]
 
   },	
   {
-   "title":"العربية",
+   "title":"أخبار 24",
     "drawable":"",
     "submenu":"أخبار",
     "iap":false,
@@ -315,23 +315,23 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "https://akhbaar24.argaam.com/article/list/103/%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%88%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/1"
         ]
       }
     ]
 
   },	
   {
-   "title":"العربية",
+   "title":"جريدة البلاد",
     "drawable":"",
-    "submenu":"أخبار",
+    "submenu":"الصحف و الجرائد",
     "iap":false,
     "tabs":[
       {
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
+          "https://albiladdaily.com/"
         ]
       }
     ]
