@@ -322,6 +322,118 @@
 
   },	
   {
+   "title":"البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الرياض",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alriyadh.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"سبق",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://sabq.org/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"عين الوطن",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.ienalwatan.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"المدينة",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.al-madina.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"عكاظ",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.okaz.com.sa/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"اليوم",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.alyaum.com/"
+        ]
+      }
+    ]
+
+  },
+  {
    "title":"جريدة البلاد",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
@@ -336,7 +448,103 @@
       }
     ]
 
-  },	
+  },
+  {
+   "title":"جريدة البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
 	  {
    "title":"KSA1 Live",
     "drawable":"",
