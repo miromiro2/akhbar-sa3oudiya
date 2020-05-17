@@ -12,8 +12,6 @@
           "UCahpxixMCwoANAftn6IxkTg",
           "channel"
 
-        ]
-     }
 	    ]
 		},
      {
