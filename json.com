@@ -433,8 +433,8 @@
     ]
 
   },
-  {
-   "title":"جريدة البلاد",
+   {
+   "title":"صحيفة مكة",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -443,14 +443,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "https://makkahnewspaper.com/"
         ]
       }
     ]
 
   },
   {
-   "title":"جريدة البلاد",
+   "title":"الاقتصادية",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -459,14 +459,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "https://www.aleqt.com/"
         ]
       }
     ]
 
   },
   {
-   "title":"جريدة البلاد",
+   "title":"صحيفة الشرق",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -475,14 +475,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "https://al-sharq.com/"
         ]
       }
     ]
 
   },
   {
-   "title":"جريدة البلاد",
+   "title":"صحيفة أم القرى",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -491,14 +491,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "https://www.uqn.gov.sa/"
         ]
       }
     ]
 
   },
   {
-   "title":"جريدة البلاد",
+   "title":"الشرق الأوسط",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -507,14 +507,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "https://aawsat.com/"
         ]
       }
     ]
 
   },
   {
-   "title":"جريدة البلاد",
+   "title":"الحياة",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -523,14 +523,14 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "https://www.alhayat-j.com/"
         ]
       }
     ]
 
   },
   {
-   "title":"جريدة البلاد",
+   "title":"الجزيرة",
     "drawable":"",
     "submenu":"الصحف و الجرائد",
     "iap":false,
@@ -539,7 +539,55 @@
         "title":"WebView",
         "provider":"webview",
         "arguments":[
-          "https://albiladdaily.com/"
+          "http://www.al-jazirahonline.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"صحيفة الرياضية",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://arriyadiyah.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة سعودي جازيت",
+    "drawable":"",
+    "submenu":"باللغة الإنجليزية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://saudigazette.com.sa/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"عرب نيوز",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.arabnews.com/"
         ]
       }
     ]
