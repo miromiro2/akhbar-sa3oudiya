@@ -1173,7 +1173,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aramexapps.appa.sauditv.SettingsFragment", "fragment"
+          "com.aramexapps.appa.saudinews.SettingsFragment", "fragment"
         ]
       }
     ]
