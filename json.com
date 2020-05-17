@@ -232,6 +232,358 @@
      }
 	    ]
 		},
+	 {
+   "title":"العربية",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.alarabiya.net/latest-news.html"
+        ]
+      }
+    ]
+
+  },	
+  {
+   "title":"Sky News",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.skynewsarabia.com/"
+        ]
+      }
+    ]
+
+  },	 
+  {
+   "title":"عكاظ",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.okaz.com.sa/"
+        ]
+      }
+    ]
+
+  },	
+  {
+   "title":"اليوم السابع",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.youm7.com/"
+        ]
+      }
+    ]
+
+  },	
+  {
+   "title":"أخبار 24",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://akhbaar24.argaam.com/article/list/103/%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%88%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/1"
+        ]
+      }
+    ]
+
+  },	
+  {
+   "title":"البلاد",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://albiladdaily.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الرياض",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.alriyadh.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"سبق",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://sabq.org/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"عين الوطن",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.ienalwatan.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"المدينة",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.al-madina.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"عكاظ",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.okaz.com.sa/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"اليوم",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.alyaum.com/"
+        ]
+      }
+    ]
+
+  },
+   {
+   "title":"صحيفة مكة",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://makkahnewspaper.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الاقتصادية",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.aleqt.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"صحيفة الشرق",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://al-sharq.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"صحيفة أم القرى",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.uqn.gov.sa/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الشرق الأوسط",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://aawsat.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الحياة",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.alhayat-j.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"الجزيرة",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "http://www.al-jazirahonline.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"صحيفة الرياضية",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://arriyadiyah.com/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"جريدة سعودي جازيت",
+    "drawable":"",
+    "submenu":"باللغة الإنجليزية",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://saudigazette.com.sa/"
+        ]
+      }
+    ]
+
+  },
+  {
+   "title":"عرب نيوز",
+    "drawable":"",
+    "submenu":"الصحف و الجرائد",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.arabnews.com/"
+        ]
+      }
+    ]
+
+  },	
 	  {
    "title":"KSA1 Live",
     "drawable":"",
