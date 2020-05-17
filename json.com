@@ -240,4 +240,20 @@
 
         ]
      },
+     {
+    "title":"عن التطبيق",
+    "drawable":"",
+    "submenu":"اخري",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"",
+        "provider":"custom",
+        "arguments":[
+          "com.aramexapps.appa.sauditv.SettingsFragment", "fragment"
+        ]
+      }
+    ]
+  }
+]
   
