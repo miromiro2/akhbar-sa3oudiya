@@ -229,7 +229,9 @@
           "channel"
 
         ]
-     },
+     }
+	    ]
+		},
 	  {
    "title":"KSA1 Live",
     "drawable":"",
