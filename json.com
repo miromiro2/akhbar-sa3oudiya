@@ -571,7 +571,7 @@
   {
    "title":"عرب نيوز",
     "drawable":"",
-    "submenu":"الصحف و الجرائد",
+    "submenu":"باللغة الإنجليزية",
     "iap":false,
     "tabs":[
       {
